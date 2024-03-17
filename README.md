@@ -12,8 +12,5 @@ Md-khan02/Md-khan02 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-<picture>
-  <source media="(min-width:650px)" srcset="large_image_URL">
-  <source media="(max-width:650px)" srcset="small_image_URL">
-  <img src="default_image_URL" alt="Alt text" style="width:auto;">
-</picture>
+<img src="image_URL" width="100" height="100">
+
